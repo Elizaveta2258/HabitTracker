@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "трекер привычек", "трекер привычек\трекер привычек.csproj", "{3DD856AF-30B4-4041-A6DB-BDFE4BAC5160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "трекер привычекTests", "трекер привычекTests\трекер привычекTests.csproj", "{0979BA47-6D22-4C5E-B7A9-1E2B4E2075F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DD856AF-30B4-4041-A6DB-BDFE4BAC5160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD856AF-30B4-4041-A6DB-BDFE4BAC5160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD856AF-30B4-4041-A6DB-BDFE4BAC5160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD856AF-30B4-4041-A6DB-BDFE4BAC5160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0979BA47-6D22-4C5E-B7A9-1E2B4E2075F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0979BA47-6D22-4C5E-B7A9-1E2B4E2075F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0979BA47-6D22-4C5E-B7A9-1E2B4E2075F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0979BA47-6D22-4C5E-B7A9-1E2B4E2075F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73C991C7-20DF-4F7B-9A66-550B7F1A3144}
+	EndGlobalSection
+EndGlobal

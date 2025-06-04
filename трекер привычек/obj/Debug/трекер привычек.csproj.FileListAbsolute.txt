@@ -1,0 +1,23 @@
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\bin\Debug\трекер привычек.exe.config
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\bin\Debug\трекер привычек.exe
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\bin\Debug\трекер привычек.pdb
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\bin\Debug\EntityFramework.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\bin\Debug\System.Data.SQLite.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\bin\Debug\EntityFramework.xml
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\bin\Debug\System.Data.SQLite.xml
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\obj\Debug\трекер привычек.csproj.AssemblyReference.cache
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\obj\Debug\трекер_привычек.Form1.resources
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\obj\Debug\трекер_привычек.Properties.Resources.resources
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\obj\Debug\трекер привычек.csproj.GenerateResource.cache
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\obj\Debug\трекер привычек.csproj.CoreCompileInputs.cache
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\obj\Debug\______ _.141B98C4.Up2Date
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\obj\Debug\трекер привычек.exe
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\obj\Debug\трекер привычек.pdb
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\obj\Debug\трекер_привычек.Form2.resources
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\obj\Debug\трекер_привычек.Form3.resources
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\obj\Debug\трекер_привычек.Form4.resources
+C:\Users\liza1\source\repos\трекер привычек\трекер привычек\obj\Debug\трекер_привычек.Form5.resources

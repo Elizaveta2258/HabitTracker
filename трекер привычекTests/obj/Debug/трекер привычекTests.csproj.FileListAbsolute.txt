@@ -1,0 +1,26 @@
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\трекер привычекTests.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\трекер привычекTests.pdb
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\System.Data.SQLite.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\трекер привычек.exe
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\трекер привычек.pdb
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\трекер привычек.exe.config
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\bin\Debug\System.Data.SQLite.xml
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\obj\Debug\трекер привычекTests.csproj.AssemblyReference.cache
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\obj\Debug\трекер привычекTests.csproj.CoreCompileInputs.cache
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\obj\Debug\______ _.FA481D38.Up2Date
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\obj\Debug\трекер привычекTests.dll
+C:\Users\liza1\source\repos\трекер привычек\трекер привычекTests\obj\Debug\трекер привычекTests.pdb
